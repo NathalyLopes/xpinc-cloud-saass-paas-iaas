@@ -53,3 +53,5 @@ Você só cuida do seu código e dos dados.
 O provedor gerencia tudo.
 Você apenas usa o serviço e gerencia os seus dados (e acessos).
 **Ex: Office 365 e Gmail**
+
+## 🏅 Projeto realizado com apoio da [DIO](https://www.dio.me)
